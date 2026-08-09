@@ -1,0 +1,12 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+  font-family: "Oswald", sans-serif;
+  background-color: #0b0a09;
+}
+
+.font-display {
+  font-family: "Playfair Display", serif;
+}
